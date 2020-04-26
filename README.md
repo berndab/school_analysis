@@ -23,7 +23,7 @@ This repository contains Jupyter Notebook applications that are programed in Pyt
 | Application Files | PyCitySchools.ipynb             | School district analysis all data  |
 |                   | PyCitySchools_challenge.ipynb   | School district analysis EXCLUDING Thomas High School 9th Grade |
 
-## PyCitySchools.ipynb Jupyter Notebook Application
+### PyCitySchools.ipynb Jupyter Notebook Application
 
 
-##  PyCitySchools_challenge.ipynb Jupyter Notebook Application
+###  PyCitySchools_challenge.ipynb Jupyter Notebook Application
