@@ -115,4 +115,9 @@ Since the NEITHER Module 4 Challenge instructions NOR the challenge rubric speci
 The implementation follows Approach 1
 
 
-Removing the suspect reading and math scored of the Thomas High School’s 9th grade student did have a noticeable effect on the district’s math, reading, and overall passing percentage by reducing all three by 1%. A one percent reduction is a significant impact for eliminating one grades scores from one high school. However, the district still has a student performance problem in that now 36% of the remaining student are not passing both math and reading. 
+Removing the suspect reading and math scored of the Thomas High School’s 9th grade student did have a noticeable effect on the district’s math, reading, and overall passing percentage by reducing all three by 1%. There are two reasons for this. Once is that the Thomas 9th grade class had a high average math score of 86 and not the average math score with the values set to NaN will be zero and second the instructions did not explicitly state that the students count for this class should be excluded from the district summary performance calculations. We can infer from this that if the actual scores for the class are significantly lower that the current suspect values, it will have a significant effect on reducing the districts overall performance not as much as 1% but in the range of 0.5% which still is significant.
+
+
+However, with or without this classes scores, the district will still have a serious student performance problem which will still remains in the 35% range for the percentage of students not passing both math and science. 
+Replacing the 9th grade Thomas High School student score with NaN significantly reduced the performance ranking of the school which previously was ranked second overall in performance and now with the NaN values the school’s performance ranking drops to 8th place. From the point of view of the Thomas High School administration, if the actual performance scores averages are determined to be significantly lower, the school ranking would put close to the criteria of being consider a problem school. 
+
