@@ -106,5 +106,13 @@ Data from the student performance by school size and student performance by scho
 
 ### Analysis
 
+There are two approaches to calculating student performance data with the reading and math scores from the 9th grade Thomas High School set to NaN
+* Approach 1 - INCLUDE the students from the 9th grade Thomas High School set to NaNn in all student counts
+*	Approach 2 - DO NOT INCLUDE the students from the 9th grade Thomas High School set to NaNn in all student counts
+
+Since the NEITHER Module 4 Challenge instructions NOR the challenge rubric specifies that we must NOT INCLUDE the students from the 9th grade Thomas High School set in student count calculations, 
+
+The implementation follows Approach 1
 
 
+Removing the suspect reading and math scored of the Thomas High School’s 9th grade student did have a noticeable effect on the district’s math, reading, and overall passing percentage by reducing all three by 1%. A one percent reduction is a significant impact for eliminating one grades scores from one high school. However, the district still has a student performance problem in that now 36% of the remaining student are not passing both math and reading. 
