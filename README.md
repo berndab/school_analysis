@@ -1,5 +1,7 @@
 # School District Analysis
 
+***
+
 ## Project Overview
 This repository contains Jupyter Notebook applications that are programed in Python 3 which analyzes school and student academic performance data for a school district and generates student performance statistics based on the following student groupings:
 
@@ -9,6 +11,8 @@ This repository contains Jupyter Notebook applications that are programed in Pyt
 * by school spending per student
 * by school size
 * by school type
+
+***
 
 ## Technical Specifications
 
@@ -23,39 +27,75 @@ This repository contains Jupyter Notebook applications that are programed in Pyt
 | Application Files | PyCitySchools.ipynb             | School district analysis all data  |
 |                   | PyCitySchools_challenge.ipynb   | School district analysis EXCLUDING Thomas High School 9th Grade |
 
-## PyCitySchools.ipynb Jupyter Notebook Application
-### Student Performance By Student Grouping
 
-#### By District
+
+***
+
+## PyCitySchools.ipynb Jupyter Notebook Application
+### Student Performance Summary Tables By Student Grouping
+
+### By District
 ![Summary By District](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_1_by_district.jpg)
 
-#### By School
+### By School
 ![Summary By School](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_2_by_school.jpg)
 
-#### By School Ranked 
+### By School Ranked 
 ![Summary By School Ranked](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_2A_by_school_ranked.jpg)
 
-#### By Grade Math
+### By Grade Math
 <img src="https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_3M_by_grade_math.jpg" width="330" height="450" />
 
-#### By Grade Reading
+### By Grade Reading
 <img src="https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_3R_by_grade_reading.jpg" width="330" height="450" />
 
-#### By Spending Per Student
+### By Spending Per Student
 ![Summary By Per_Student Spending](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_4_by_spending_per_student.jpg)
 
-#### By School Size
+### By School Size
 ![Summary By School_Size](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_5_by_school_size.jpg)
 
-#### By School Type
+### By School Type
 ![Summary By School_Type](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_6_by_school_type.jpg)
 
+****
+
+### Analysis
+
+***
+
+##  PyCitySchools_challenge.ipynb Jupyter Notebook Application
+
+### Student Performance Summary Table By Student Grouping 
+### !! Minus Thomas High School 9th Grade Math and Reading Scores 
+
+### By District
+![Summary By District](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_1_by_district_-_thomas.jpg)
+
+### By School
+![Summary By School](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_2_by_school_-_thomas.jpg)
+
+### By School Ranked 
+![Summary By School Ranked](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_2A_by_school_ranked_-_thomas.jpg)
+
+### By Grade Math
+<img src="https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_3M_by_grade_math_-_thomas.jpg" width="330" height="450" />
+
+### By Grade Reading
+<img src="https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_3R_by_grade_reading_-_thomas.jpg" width="330" height="450" />
+
+### By Spending Per Student
+![Summary By Per_Student Spending](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_4_by_spending_per_student_-_thomas.jpg)
+
+### By School Size
+![Summary By School_Size](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_5_by_school_size_-_thomas.jpg)
+
+### By School Type
+![Summary By School_Type](https://github.com/berndab/school_district_analysis/blob/master/summary_tables/summary_table_6_by_school_type_-_thomas.jpg)
+
+***
+
+### Analysis
 
 
 
-
-
-
-
-
-###  PyCitySchools_challenge.ipynb Jupyter Notebook Application
