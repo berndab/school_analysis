@@ -1,7 +1,5 @@
 # School District Analysis
 
-***
-
 ## Project Overview
 This repository contains Jupyter Notebook applications that are programed in Python 3 which analyze school and student academic performance data for a school district and generate student performance statistics based on the following student groupings:
 
@@ -11,10 +9,6 @@ This repository contains Jupyter Notebook applications that are programed in Pyt
 * by school spending per student
 * by school size
 * by school type
-
-***
-
-***
 
 ## PyCitySchools.ipynb Jupyter Notebook Application
 ### Student Performance Summary Tables By Student Grouping
